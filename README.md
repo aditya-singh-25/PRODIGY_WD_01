@@ -8,6 +8,13 @@ This project is a responsive website for the "Awake Coffee Shop." The website fe
 - **Hover Effects:** Menu items change color when hovered over, providing a dynamic user experience.
 - **Responsive Design:** The website is designed to be responsive, ensuring a good user experience across different devices.
 
+## How Web-page looks
+  ![image1](look/1.jpeg)
+  ![image2](look/2.jpeg)
+  ![image3](look/3.jpeg)
+  ![image4](look/4.jpeg)
+
+
   
 ## Technologies Used
 - **HTML:** For structuring the content of the website.
