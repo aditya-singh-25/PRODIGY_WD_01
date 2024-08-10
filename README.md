@@ -12,7 +12,7 @@ This project is a responsive website for the "Awake Coffee Shop." The website fe
   ![image1](look/1.jpeg)
   ![image2](look/2.jpeg)
   ![image3](look/3.jpeg)
-  ![image4](look/4.jpeg)
+  ![image4](look/5.jpeg)
 
 
   
