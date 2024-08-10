@@ -1,4 +1,4 @@
-# Awake Coffee Shop Website
+# Smooth Coffee Shop Website
 ## Info
 This project is a responsive website for the "Awake Coffee Shop." The website features an interactive navigation menu that changes color when scrolled or when hovering over menu items. The website consists of three main sections: Menu, Gallery, and Contact Us.
 
